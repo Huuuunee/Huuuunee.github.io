@@ -1,0 +1,74 @@
+# The primary author of this blog.
+# Must be the same as `author` in `_config.yml`.
+# Change `author1` to your shortname.
+author1:
+  name:              <Kim> <sihun>
+  email:             <seahun.off@gmail.com>
+
+  # Used at the bottom of each page and at the top of the `about` layout
+  # Markdown enabled, can use multiple paragraphs (enabled by `|`)
+  about:             |
+   마이스터고에 재학하며 백엔드 개발자를 꿈꾸는 학생입니다.
+
+  # This photo will be used in the about section
+  picture:
+    path:            https://avatars.githubusercontent.com/u/81404026?s=400&u=ce1dd8f0c7429494a92349de0c3cc1f3ac101626&v=4/128x128
+    # srcset is optional, but can be used to provide higher res versions for retina displays
+    srcset:
+      1x:            https://avatars.githubusercontent.com/u/81404026?s=400&u=ce1dd8f0c7429494a92349de0c3cc1f3ac101626&v=4/128x128
+      2x:            https://avatars.githubusercontent.com/u/81404026?s=400&u=ce1dd8f0c7429494a92349de0c3cc1f3ac101626&v=4/256x256
+
+  # Social media icons in sidebar
+  # Comment/uncommet to show/hide
+  # Rearrange to change the order in which they appear
+  social:
+    #twitter:         <username>
+    github:          <Huuuunee>
+    email:           <seahun.off@gmail.com>
+    # rss:             https://<url>/feed.xml
+    # facebook:        <username>
+    # google:          <number>
+    # vk:              <username>
+    # youtube:         <string_string_string>
+    # vimeo:           <username>
+    # vine:            <username>
+    # spotify:         <user>/<number>
+    # soundcloud:      <username>
+    # lastfm:          <username>
+    # instagram:       <username>
+    # flickr:          <string@string>
+    # 500px:           <username>
+    # dribbble:        <username>
+    # behance:         <username>
+    # deviantart:      <username>
+    # ello:            <username>
+    # twitch:          <username>
+    # steam:           <number>
+    # reddit:          <username>
+    # tumblr:          <username>
+    # pinterest:       <username>
+    # foursquare:      <number>
+    # yelp:            <string>
+    # stackoverflow:   <number/username>
+    # npm:             <username>
+    # hackernews:      <username>
+    # trello:          <firstnamelastname>
+    # linkedin:        <firstname-lastname-string>
+    # xing:            <firstname_lastname_counter>
+    # blogger:         <number>
+    # delicious:       <username>
+    # stumbleupon:     <username>
+    # paypal:          <username>
+    # download:        <url>
+    # keybase          <username>
+
+# Another author (optional)
+author2:
+  name:              <Kim> <sihun>
+  email:             <seahun.off@gmail.com>
+  about:             |
+       마이스터고에 재학하며 백엔드 개발자를 꿈꾸는 학생입니다.
+
+
+  picture:           https://avatars.githubusercontent.com/u/81404026?s=400&u=ce1dd8f0c7429494a92349de0c3cc1f3ac101626&v=4/128x128
+  github:            <Huuuunee>
